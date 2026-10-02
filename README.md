@@ -1,6 +1,6 @@
 # Post-OCR Text Correction for Ottoman Turkish Transcription
 
-Alize Sevgi Yalçınkaya. M.Sc. thesis, Computer Science and Engineering, <university>, 2026.
+Alize Sevgi Yalçınkaya. M.Sc. thesis, Computer Science and Engineering, Sabancı University, 2026.
 
 **[Read the thesis (PDF)](Yalcinkaya_2026_MSc_Thesis.pdf)**
 
@@ -18,7 +18,7 @@ Historical document digitization requires effective post-OCR error correction, p
 @mastersthesis{yalcinkaya2026postocr,
   author = {Yal{\c{c}}{\i}nkaya, Alize Sevgi},
   title  = {Post-{OCR} Text Correction for {O}ttoman {T}urkish Transcription},
-  school = {<university>},
+  school = {Sabanc{\i} University},
   year   = {2026},
   type   = {{M.Sc.} thesis},
   note   = {Y{\"O}K Ulusal Tez Merkezi, Tez No.\ 1028725}
